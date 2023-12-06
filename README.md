@@ -36,7 +36,8 @@ The Traveling Salesman Problem (TSP) is encountered in a wide range of areas inc
 ### Results and Analysis
 
 The results of addressing the TSP problem via different algorithms are tabulated. The algorithms show varying degrees of efficiency and accuracy, with genetic algorithms providing a balance between solution quality and computational time.
-<img width="1037" alt="result_difference_algorithms" src="https://github.com/Keviniscaiji/ComparisonBetweenSalesmanAlgorithms/assets/74641290/2c73c73f-6f7f-40fb-819d-1a868073828b">
+![result_difference_algorithms](https://github.com/Keviniscaiji/ComparisonBetweenSalesmanAlgorithms/assets/74641290/0b754e9b-f1f2-4922-8df0-7f57662c7fff)
+
 ### Conclusion
 
 Four algorithms were tested for solving the TSP problem. While brute-force finds the best solution, it's computationally expensive. The genetic algorithm offers a practical balance between cost and quality. Among local search algorithms, the genetic algorithm outperforms hill climbing in terms of the experiments' results.
