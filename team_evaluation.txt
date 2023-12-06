@@ -1,0 +1,36 @@
+
+
+Haoyang Zeng: 10
+Haoyang Zeng, who is in charge of approximation methods (approx.py) for Traveling Salesman Problems, 
+made huge contribution to our project and showed his collaborative spirit in teamwork. 
+His coding was well organized and thoroughly annotated, making it easy for the team to 
+understand and integrate with other components of the project.
+
+Jiayi Qian: 10
+Jiayi Qian stood out as a pivotal figure in our initiative, spearheading the development 
+of the Evolutionary Algorithm (evolutionary.py) to tackle a range of Traveling Salesman Problems. 
+His proficiency in crafting and applying the algorithm played a major role in elevating 
+our team's capabilities. Furthermore, his coding style, characterized by its impeccable 
+clarity, greatly facilitated ease of reading and subsequent utilization, adding substantial 
+value to our project's success.
+
+Kaiwen Gong: 10
+Kaiwen Gong was a key contributor to our project, responsible for writing the hill_climbing 
+code (hill_climbing.py) for solving various Traveling Salesman Problems. His skillful implementation and 
+understanding of the algorithm significantly enhanced our team's performance. Kaiwen's
+ work was not only technically proficient but also pivotal in achieving our project's objectives. 
+ His contribution was greatly valued and positively impacted our team's success.
+
+Zheng Wang: 10
+Zheng Wang is mainly in charge of implementing the program interface and the main function by 
+combining all the implemented algorithms for solving TSP (main.py). He is in charge of producing 
+executable file and all output files. Besides, he is in charge of plotting graphs, writing the 
+abstract, results and analysis, and conclusion parts of the report. All in all, he is a trusted 
+and responsible team leader.
+
+Zhikai Xu:10
+Zhikai Xu is mainly responsible for implementing brute force algorithm (brute_force.py), his contribution 
+in the group was vital, demonstrating not only his technical abilities but also his 
+collaborative spirit and commitment to achieving our team goals. His code was well-structured
+ and commented, making it easy for the team to understand and integrate with other components 
+of the project. 
